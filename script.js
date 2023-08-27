@@ -109,11 +109,11 @@ const ScreenController = (() => {
 					const markerChoices = [
 						{ 
 							token: 'x',
-							path: '/icons/x.svg', 
+							path: 'icons/x.svg', 
 						},
 						{
 							token: 'o',
-							path: '/icons/o.svg',
+							path: 'icons/o.svg',
 						},
 					];
 
