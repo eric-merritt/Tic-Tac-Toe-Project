@@ -111,8 +111,8 @@ img:hover .largeImg:not {
     grid: repeat(3,1fr) / repeat(3, 1fr);
     background-color: black; 
     gap: .5rem;
-    width: max(30vw);
-    height: max(30vw);
+    width: 25vw;
+    height: 25vw;
     margin: 0 auto;
 }
 
